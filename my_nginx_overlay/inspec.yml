@@ -11,4 +11,4 @@ supports:
 
 depends:
   - name: my_nginx
-    path: my_nginx # {path relative to the overlay}
+    path: ../my_nginx # {path relative to the overlay}
