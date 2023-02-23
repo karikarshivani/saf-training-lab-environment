@@ -1,0 +1,82 @@
+[
+  {
+    "control_id": "V-40792",
+    "explanation": "Verified that the server-side session management is configured correctly.",
+    "frequency": "3m",
+    "status": "passed",
+    "updated": "2023-02-23T21:08:51.337Z",
+    "updated_by": "Shivani"
+  },
+  {
+    "control_id": "V-41674",
+    "explanation": "A verifiable backup strategy has been implemented for web server software and data files.",
+    "frequency": "6m",
+    "status": "passed",
+    "updated": "2023-02-23T21:10:37.729Z",
+    "updated_by": "Shivani"
+  },
+  {
+    "control_id": "V-41693",
+    "explanation": "Some unneeded applications were loaded on the system.",
+    "frequency": "3m",
+    "status": "failed",
+    "updated": "2023-02-23T21:12:48.477Z",
+    "updated_by": "Shivani"
+  },
+  {
+    "control_id": "V-41811",
+    "explanation": "No DRP in place",
+    "frequency": "6m",
+    "status": "failed",
+    "updated": "2023-02-23T21:13:22.529Z",
+    "updated_by": "Shivani"
+  },
+  {
+    "control_id": "V-55955",
+    "explanation": "There are documented procedures in the IR plan to shut down website in the event of an attack.",
+    "frequency": "6m",
+    "status": "passed",
+    "updated": "2023-02-23T21:16:11.859Z",
+    "updated_by": "Shivani"
+  },
+  {
+    "control_id": "V-55973",
+    "explanation": "An alert is configured when audit data is no longer received as expected",
+    "frequency": "6m",
+    "status": "passed",
+    "updated": "2023-02-23T21:17:01.962Z",
+    "updated_by": "Shivani"
+  },
+  {
+    "control_id": "V-55975",
+    "explanation": "An alert is not configured to notify when allocated record storage volume reaches 75%",
+    "frequency": "1y",
+    "status": "failed",
+    "updated": "2023-02-23T21:17:55.415Z",
+    "updated_by": "Shivani"
+  },
+  {
+    "control_id": "V-55983",
+    "explanation": "Our application validates files before they are implemented into the running config",
+    "frequency": "1y",
+    "status": "passed",
+    "updated": "2023-02-23T21:19:12.775Z",
+    "updated_by": "Shivani"
+  },
+  {
+    "control_id": "V-56021",
+    "explanation": "It doesn't atm",
+    "frequency": "1d",
+    "status": "failed",
+    "updated": "2023-02-23T21:21:42.738Z",
+    "updated_by": "Shivani"
+  },
+  {
+    "control_id": "V-56029",
+    "explanation": "DR methods are in place. Random resource: https://github.com/mitre/nginx-stigready-baseline",
+    "frequency": "1y",
+    "status": "passed",
+    "updated": "2023-02-23T21:22:21.110Z",
+    "updated_by": "Shivani"
+  }
+]

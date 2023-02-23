@@ -1,0 +1,82 @@
+[
+  {
+    "control_id": "V-40792",
+    "explanation": "a",
+    "frequency": "1d",
+    "status": "passed",
+    "updated": "2023-02-23T21:40:32.982Z",
+    "updated_by": "S"
+  },
+  {
+    "control_id": "V-41674",
+    "explanation": "a",
+    "frequency": "1d",
+    "status": "passed",
+    "updated": "2023-02-23T21:40:47.358Z",
+    "updated_by": "S"
+  },
+  {
+    "control_id": "V-41693",
+    "explanation": "a",
+    "frequency": "1d",
+    "status": "passed",
+    "updated": "2023-02-23T21:41:04.065Z",
+    "updated_by": "S"
+  },
+  {
+    "control_id": "V-41811",
+    "explanation": "a",
+    "frequency": "1d",
+    "status": "passed",
+    "updated": "2023-02-23T21:41:19.446Z",
+    "updated_by": "S"
+  },
+  {
+    "control_id": "V-55955",
+    "explanation": "a",
+    "frequency": "1d",
+    "status": "passed",
+    "updated": "2023-02-23T21:41:33.863Z",
+    "updated_by": "S"
+  },
+  {
+    "control_id": "V-55973",
+    "explanation": "a",
+    "frequency": "1d",
+    "status": "passed",
+    "updated": "2023-02-23T21:41:47.397Z",
+    "updated_by": "S"
+  },
+  {
+    "control_id": "V-55975",
+    "explanation": "a",
+    "frequency": "1d",
+    "status": "passed",
+    "updated": "2023-02-23T21:41:58.921Z",
+    "updated_by": "S"
+  },
+  {
+    "control_id": "V-55983",
+    "explanation": "a",
+    "frequency": "1d",
+    "status": "passed",
+    "updated": "2023-02-23T21:42:13.899Z",
+    "updated_by": "S"
+  },
+  {
+    "control_id": "V-56021",
+    "explanation": "a",
+    "frequency": "1d",
+    "status": "passed",
+    "updated": "2023-02-23T21:43:14.712Z",
+    "updated_by": "S"
+  },
+  {
+    "control_id": "V-56029",
+    "explanation": "a",
+    "frequency": "1d",
+    "status": "passed",
+    "updated": "2023-02-23T21:43:30.754Z",
+    "updated_by": "S"
+  }
+]
