@@ -1,0 +1,8 @@
+compliance:
+  min: 80
+passed:
+  total:
+    min: 1
+failed:
+  total:
+    max: 2
